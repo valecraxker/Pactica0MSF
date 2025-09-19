@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Infromación del\la estudiante
-Valeria Camachi \[C22211475]; L22211475@tectijuana.edu.mx
+Valeria Camacho Lopez \[C22211475]; L22211475@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
