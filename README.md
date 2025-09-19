@@ -3,7 +3,7 @@
 # Práctica 0: Modelo del sistema respiratorio
 
 ## Infromación del\la estudiante
-Nombre Apellido \[No control]: Paul A. Valle \[05211261]; correo1@tectijuana.edu.mx
+Valeria Camachi \[C22211475]; L22211475@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
