@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATHLAB; SPYDER
+message: lenguaje m; python
+type: software
+authors:
+  - given-names: Valeria
+    family-names: Camacho
+    affiliation: TecNM-ITT
+    email: valeriacamacho1609@gmail.com
+repository-code: 'https://github.com/valecraxker/Pactica0MSF'
+keywords:
+  - Circuito RLC
+  - Controlador PID
+  - ' Sistema respiratorio'
+  - ' Modelo matemático'
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '10'
+date-released: '2025-09-19'
